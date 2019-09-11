@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cute-cats/static/css/main.e1bd1bf6.chunk.css",
+    "main.js": "/cute-cats/static/js/main.a2841696.chunk.js",
+    "main.js.map": "/cute-cats/static/js/main.a2841696.chunk.js.map",
+    "runtime~main.js": "/cute-cats/static/js/runtime~main.7d5aab54.js",
+    "runtime~main.js.map": "/cute-cats/static/js/runtime~main.7d5aab54.js.map",
+    "static/js/2.1c5bc520.chunk.js": "/cute-cats/static/js/2.1c5bc520.chunk.js",
+    "static/js/2.1c5bc520.chunk.js.map": "/cute-cats/static/js/2.1c5bc520.chunk.js.map",
+    "index.html": "/cute-cats/index.html",
+    "precache-manifest.292890d01a1f1c5f14965e448b0a05a7.js": "/cute-cats/precache-manifest.292890d01a1f1c5f14965e448b0a05a7.js",
+    "service-worker.js": "/cute-cats/service-worker.js",
+    "static/css/main.e1bd1bf6.chunk.css.map": "/cute-cats/static/css/main.e1bd1bf6.chunk.css.map"
+  }
+}
